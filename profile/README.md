@@ -1,4 +1,7 @@
-<h1 align="center"> 
+<!--  Navier USN – Organisation README  --> 
+<!--  Place this file at:  .github/profile/README.md  -->
+
+<h1 align="center">
   Navier USN
 </h1>
 <p align="center"><em>“Todays students, tomorrows solutions”</em></p>
@@ -14,7 +17,7 @@
 
 ## 🌊 About Us
 Navier USN is a student-led engineering organisation at the **University of South-Eastern Norway (USN)**.  
-Our members design, build and race **autonomous maritime vehicles** in national and international competitions. Supported by a dedicated organisational core, we encourage each engineer to explore bold ideas and push the boundaries of their technical expertise, while learning to collaborate as an effective, multidisciplinary team. 
+Our members design, build and race **autonomous maritime vehicles** in national and international competitions. Supported by a dedicated organisational core, we encourage each member to explore bold ideas and push the boundaries of their technical expertise, while learning to collaborate as an effective, multidisciplinary team. 
 
 We are always eager to welcome new talent—whether you are a student looking for a challenge or an industry partner keen to advance autonomy on the water.
 
@@ -28,7 +31,7 @@ We are always eager to welcome new talent—whether you are a student looking fo
 
 | Category            | Component / Approach |
 |---------------------|----------------------|
-| Compute             | NVIDIA Jetson AGX Xavier |
+| Compute             | NVIDIA Jetson Orin AGX |
 | Perception          | 3D LiDAR, stereo cameras |
 | Navigation          | XSENS Inertial Measurement Unit |
 | Software            | ROS 2, Python / C++, Dockerised micro-services |
@@ -60,12 +63,14 @@ We are grateful for the generous support of our partners:
 
 | | |
 |---|---|
-| **Kongsberg** | **Sprout USN** |
-| **LINK Nordic** | **Telia** |
-| **Kartverket** | **Celerway** |
-| **Emcom** | **Ocean Autonomy Cluster** |
-| **University of South-Eastern Norway** | **E3.series** |
-| **RS Noatun** | |
+| **Kongsberg** | **University of South-Eastern Norway** |
+|**Sprout USN** | **Telia** |
+| **LINK Nordic** | **Celerway** |
+| **Kartverket** | **Emcom** |
+| **Unimicro** | **Ocean Autonomy Cluster** |
+| **4Test** | **E3.series** |
+| **RS Noatun** | **Hetronic** |
+| **Senstisystem**| **adminkit** |
 
 > Interested in becoming a sponsor? [Get in touch](mailto:kontakt@navierusn.com)!
 
@@ -87,3 +92,4 @@ We are grateful for the generous support of our partners:
 All original code in this organisation is released under the **MIT Licence** unless otherwise noted.
 
 > © 2025 Navier USN. All rights reserved.
+
